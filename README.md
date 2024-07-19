@@ -2,7 +2,7 @@
 
 # Image Classification Project
 
-![header](visuals/header.jpg)
+![header](visuals/header.png)
 
 ## Overview
 This project involves training and evaluating two machine learning models on different data sources for image classification. The goal is to compare their performance and assess their effectiveness in a specific task.
@@ -11,9 +11,9 @@ This project involves training and evaluating two machine learning models on dif
 - **Data Source Model01**: Trained using Data :The dataset we used is called MNIST. This is a large collection of hand-drawn digits 0 to 9 and is a good dataset to learn image classification on as it requires little to no preprocessing..
 - **Data Source Model02**: Trained using prepared Data from Kaggle.
 
-  ![visuals](visuals/vis01.jpg)
-  ![visuals](visuals/vis02.jpg)
-  ![visuals](visuals/vis03.jpg)
+  ![visuals](visuals/vis01.png)
+  ![visuals](visuals/vis02.png)
+  ![visuals](visuals/vis03.png)
 
 
 ## Performance
